@@ -11,7 +11,7 @@
 
 I'm Sean, an aspiring web developer that's eager to take on any challenge presented! Prior to my interest in coding, I took many UI/UX design classes in college and graduated with a Cognitive Science with a specialization in Design and Interaction. This journey eventually introduced me to front end development. As a tech savvy person, the concept of being able to write in a language that computers can understand and create applications out of thin air intrigued me vastly. With the technologies I've learned and will learn, I wish to create and contribute to projects that will instill my passion for coding!
 
-### Hobbies 🌟
+### Hobbies ⭐
 - 🎻 Cello
 - 🎸 Acoustic/electric guitar
 - 🏐 Volleyball
